@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "D28E9B08-CE72-4895-8DEE-15788A1A137A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FBE3F43A-FBC6-44A9-9AB3-B4141A32AD7D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3FF62F41-C1BF-4607-8721-7090C3C2EE89",
+    "height": 96,
+    "width": 246,
+    "x": 496,
+    "y": 124
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4B728CE3-DE0E-4509-845E-0699C9B66F3A"
+    },
+    {
+      "class": "group",
+      "id": "7581D5D0-0038-41D9-A224-C3A1C5CE87FE"
+    }
+  ],
+  "name": "plutoLogoWhite",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4AEEA4ED-B3AC-499F-84B2-3CA93F2C1B3E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 31.68,
+      "type": 0
+    },
+    "do_objectID": "600E5D55-0212-4DE1-8033-E3274B0877AF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "9EA5AEDB-9FBD-41BC-83E7-0BDC2DC646D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21A09DE7-EFD9-48F1-8E1E-7C6409647152",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B02A210A-B726-4737-B2FD-A61CCD76A48A",
+    "height": 740,
+    "width": 574,
+    "x": 1518,
+    "y": 230
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2B32488D-7344-4AB3-86DF-BE55F9F88456"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "437EA24C-5328-4ED7-A9DE-F171415ED44A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5B91131-CA07-4BFF-9D6E-97FC39B2CEF7"
+    }
+  ],
+  "name": "decorateBubble",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "73EB0D5C-B36A-41C5-AC49-13A580B9BEA1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "20EF7B1E-0B5C-4BFB-9AFD-CB865E3D7549",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "08B57030-52EE-4913-A9B5-3E9734C8CA0E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BDB3A333-A7CF-46BF-83FA-A4CBE40B874F",
+    "height": 42,
+    "width": 402,
+    "x": 578,
+    "y": 252
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/e8ca7880791b13c7e2d8179ba63564a32717fa3c.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "physicsToday",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "12E34613-DEA2-4DD1-BC7B-CD181FD79F40",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "D1E547A5-0AE2-499D-9B7D-DFCBD361737A",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7106983418367347,
+          "green": 0.639621029766468,
+          "red": 0.6040823737313344
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 42,
+            "enabled": 1,
+            "modelID": "constraint_088fc7ec-a3db-47c5-a7f2-eac8d0ec45b9",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 402
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_5ef0f53d-bef7-4d10-aa15-58c92e542707",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

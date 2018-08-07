@@ -1,0 +1,181 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "45960E0C-BBDE-43DB-AE32-432CC3D9C790",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4AE01C3D-3F3B-443A-B263-D4DE0CC77C05",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B18221C8-4B9E-4327-8C5A-B8CC6E332622",
+    "height": 281,
+    "width": 766,
+    "x": 455,
+    "y": 121
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "287EC2CD-A8EB-4AC9-9CE6-1D50FAFFB07D"
+    },
+    {
+      "class": "shapePath",
+      "id": "6FCAA58C-B369-4962-8DC4-AEF3158A4782"
+    },
+    {
+      "class": "shapePath",
+      "id": "A9981151-3F1F-4E66-8BDD-5F0C42FB2102"
+    },
+    {
+      "class": "shapePath",
+      "id": "2D17A564-BEBF-4EB9-B124-91FCE3B543EB"
+    },
+    {
+      "class": "shapePath",
+      "id": "C6E0989B-BB93-47A4-BE5A-B7C0552F91D4"
+    },
+    {
+      "class": "shapePath",
+      "id": "B1DE6195-2E13-4AC7-87E8-58623E71E668"
+    },
+    {
+      "class": "shapePath",
+      "id": "EF74A24C-BE22-4796-9AA2-0904431C0B22"
+    }
+  ],
+  "name": "pluto",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1C87EF0B-1592-439A-8F10-661D03D98F44",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 31.68,
+      "type": 0
+    },
+    "do_objectID": "D2EAD472-7814-4D9D-BB0D-1219CBEB29F4",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7058823529411765,
+          "green": 0.6274509803921569,
+          "red": 0.5882352941176471
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{1, 1}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.623529411764706,
+                "green": 0.7294117647058823,
+                "red": 0.01568627450980399
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8235294117647061,
+                "green": 0.9490196078431372,
+                "red": 0.1215686274509804
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0, 0}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "211695FE-BACF-4CEB-BF8D-B69E9B45245F",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "MontserratAlternates-Light",
+            "size": 23.76000022888184
+          }
+        },
+        "kerning": 0.4751999974250793,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 281,
+            "enabled": 1,
+            "modelID": "constraint_afa6fdc5-0f83-4086-8f8d-081ef298ca8b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 766
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_0b913e30-1dd6-4b87-ad0f-b3a2a7502490",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

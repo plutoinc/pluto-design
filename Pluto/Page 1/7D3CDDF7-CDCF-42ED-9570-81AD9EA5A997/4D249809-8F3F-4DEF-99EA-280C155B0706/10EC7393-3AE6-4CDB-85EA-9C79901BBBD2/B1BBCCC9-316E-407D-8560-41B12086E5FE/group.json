@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "B1BBCCC9-316E-407D-8560-41B12086E5FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "691A9B93-7561-44A5-B2FC-5488BBB05C49",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "90456393-9981-436A-8A89-CF4A715E455A",
+    "height": 1200,
+    "width": 2400,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BDC135CC-87E4-40CE-8B36-7B6B698352F3"
+    },
+    {
+      "class": "bitmap",
+      "id": "EC8179B3-8F3E-4B54-A516-7E85A7A936C5"
+    }
+  ],
+  "name": "Background",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D402A578-91CE-4EA7-8AB6-51DFB121C242",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "2CE9EF76-C827-4916-98CA-1FA19A290546",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

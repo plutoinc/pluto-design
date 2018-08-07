@@ -1,0 +1,97 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "2FECD4BC-314A-4D53-813B-614CEEFCC078",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4DA2A699-EABA-487F-B3A8-C27585E256BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FEDC77DD-18E8-47C1-A948-7FB0E1AA9831",
+    "height": 56.32692307692308,
+    "width": 410.3297297297298,
+    "x": 1870,
+    "y": 237
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/5b3b1644a7921a3634e4a9a09528ac8616758c87.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "researchStash",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F6D3B25E-591E-432F-B22A-BED3937682AD",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "7071904C-7E6B-4965-A4EB-6F1419EE0139",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7106983418367347,
+          "green": 0.639621029766468,
+          "red": 0.6040823737313344
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 56.32692,
+            "enabled": 1,
+            "modelID": "constraint_c7906deb-c9ed-4987-880a-b793a0a6cde9",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 410.3297
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_0b152976-05eb-4d0d-be31-d19a1a4a845a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

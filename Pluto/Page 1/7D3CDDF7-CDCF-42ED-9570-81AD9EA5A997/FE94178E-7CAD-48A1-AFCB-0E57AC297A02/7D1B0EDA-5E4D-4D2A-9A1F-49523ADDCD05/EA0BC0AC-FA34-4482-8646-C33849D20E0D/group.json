@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "EA0BC0AC-FA34-4482-8646-C33849D20E0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2153173-FB19-44B3-9A81-ABBD803B71EE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE5DF218-A594-4761-8F9D-C38511F2487C",
+    "height": 126,
+    "width": 126,
+    "x": 406,
+    "y": 556
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2A0BB7F2-BDBE-4944-9608-A2A2B43BCE65"
+    },
+    {
+      "class": "group",
+      "id": "EB8C2836-7FC7-460D-B598-194E32C9283A"
+    }
+  ],
+  "name": "Autonomy&decentralization",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "84672D00-ED5D-48E9-9692-61D1A1C2442C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "94CB6620-7644-4039-B60E-AB703A9F2C80",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

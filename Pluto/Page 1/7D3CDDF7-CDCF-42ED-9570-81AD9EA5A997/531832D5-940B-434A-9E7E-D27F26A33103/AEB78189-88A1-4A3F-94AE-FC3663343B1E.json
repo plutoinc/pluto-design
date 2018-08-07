@@ -1,0 +1,97 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "AEB78189-88A1-4A3F-94AE-FC3663343B1E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D7B901B5-8C92-444F-B7C5-A1B571BCCAFE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "38196588-7ACF-4902-A2B4-236FB88BE37C",
+    "height": 78,
+    "width": 368,
+    "x": 118,
+    "y": 235
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/a0861389ed20aa7d3f945b6c3a90ea5ec560aa79.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btcManager",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "193B767B-E6F4-4185-AED1-8E2578392763",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.5,
+      "type": 0
+    },
+    "do_objectID": "C93B62B8-195D-44C8-9B5F-FA531E34FC32",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7106983418367347,
+          "green": 0.639621029766468,
+          "red": 0.6040823737313344
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 78,
+            "enabled": 1,
+            "modelID": "constraint_5fad1c15-7490-4a39-b641-7fb4cd6e6f59",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 368
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_e894f23b-8a1f-4dd4-947d-9f50b5db9cc5",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

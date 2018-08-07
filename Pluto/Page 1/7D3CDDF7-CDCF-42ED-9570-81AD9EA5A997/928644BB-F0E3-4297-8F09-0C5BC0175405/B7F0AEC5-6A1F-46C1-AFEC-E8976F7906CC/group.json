@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "B7F0AEC5-6A1F-46C1-AFEC-E8976F7906CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E397AC0F-DE4A-4F9E-B72A-F1ABD233CDF6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB02AAAF-BCCE-44C2-9DF0-0EE2578E4D12",
+    "height": 1200,
+    "width": 2471,
+    "x": 0,
+    "y": 70
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EEEE85A6-E3D9-4B4D-9AE7-01969A34C52A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "410D7970-779E-4903-983A-56EA61441F5C"
+    }
+  ],
+  "name": "visionBackground",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "200EF631-B13F-4EC2-822D-AE1931E59501",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "E915CC10-69DD-4E0E-B0C3-832C6F2F2631",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
