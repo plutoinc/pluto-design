@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "52F51CD6-537F-4065-8964-BB79B97D140F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D425478-6624-499C-BA75-95997ED01708",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BC963AFE-D6A4-4A5A-9E11-30CCAB45101C",
+    "height": 92,
+    "width": 664,
+    "x": 1248,
+    "y": 210
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DB7219D3-9389-4716-80CF-160D55C731A9"
+    },
+    {
+      "class": "group",
+      "id": "3BF0A2ED-A774-45EE-84A7-14DAD6BEC245"
+    },
+    {
+      "class": "text",
+      "id": "FC0A1942-DF04-43DD-B1F3-CCABB1B2B883"
+    }
+  ],
+  "name": "emailInputContainer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "28539AA2-26BF-49ED-9D01-24E54A826F04",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 24,
+      "type": 0
+    },
+    "do_objectID": "CCBA1215-19F8-4181-9F54-186CC1B190E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

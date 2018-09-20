@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-SemiBold",
+              "name": "AvertaStdCY-Semibold",
               "size": 40
             }
           },
@@ -36,6 +36,7 @@
     "string": "Product"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "49003CCC-B82D-4CC6-9381-892CE7BDDB20",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,11 +54,12 @@
     "constrainProportions": false,
     "do_objectID": "72EBEBBC-B120-4426-919D-958838BB63F0",
     "height": 48,
-    "width": 144,
+    "width": 148,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{3, 8}, {140, 30}}",
+  "glyphBounds": "{{3, 8}, {144, 31}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -82,9 +84,9 @@
       "type": 0
     },
     "do_objectID": "4A9FCF60-488B-4CC0-BEEC-92A1B0DAA309",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "82DE7A1C-77F4-48BC-93B3-3B6D1EB36984",
@@ -99,7 +101,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NunitoSans-SemiBold",
+            "name": "AvertaStdCY-Semibold",
             "size": 40
           }
         },
@@ -113,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

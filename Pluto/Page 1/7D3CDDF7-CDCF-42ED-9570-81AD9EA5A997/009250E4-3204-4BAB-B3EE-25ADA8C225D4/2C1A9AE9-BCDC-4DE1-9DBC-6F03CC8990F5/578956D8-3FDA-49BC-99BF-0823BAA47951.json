@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
+              "name": "AvertaStdCY-Regular",
               "size": 30
             }
           },
@@ -34,6 +34,7 @@
     "string": "Team"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "578956D8-3FDA-49BC-99BF-0823BAA47951",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -50,12 +51,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8D87B2CE-F295-47DA-824B-857AC4C2F608",
-    "height": 41,
-    "width": 77,
+    "height": 37,
+    "width": 79,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 8}, {75, 23}}",
+  "glyphBounds": "{{0, 7}, {77, 23}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -80,9 +82,9 @@
       "type": 0
     },
     "do_objectID": "0F5E5BE5-9389-485A-ADFD-DAF289C2FE51",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "96E4DBEB-3F75-4A7D-AC05-B0C908E1AF87",
@@ -97,7 +99,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
+            "name": "AvertaStdCY-Regular",
             "size": 30
           }
         },
@@ -109,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

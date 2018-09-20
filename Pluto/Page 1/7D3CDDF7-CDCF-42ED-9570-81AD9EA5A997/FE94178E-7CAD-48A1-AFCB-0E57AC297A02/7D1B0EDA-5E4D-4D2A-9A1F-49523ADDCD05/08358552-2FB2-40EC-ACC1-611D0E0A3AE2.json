@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-Regular",
+              "name": "AvertaStdCY-Regular",
               "size": 40
             }
           },
@@ -36,6 +36,7 @@
     "string": "What Pluto Does"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "08358552-2FB2-40EC-ACC1-611D0E0A3AE2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,11 +54,12 @@
     "constrainProportions": false,
     "do_objectID": "EE5EBA9D-775A-4E00-A4FC-F156B27CFD8D",
     "height": 48,
-    "width": 308,
+    "width": 312,
     "x": 1046,
-    "y": 140
+    "y": 139
   },
-  "glyphBounds": "{{1, 8}, {305, 30}}",
+  "glyphBounds": "{{1, 8}, {310, 31}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -82,9 +84,9 @@
       "type": 0
     },
     "do_objectID": "512E80F5-E582-4342-A5A9-6FB55EE11A76",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "66B0D26A-6C4F-4D07-B7F5-5D510FC8967D",
@@ -99,7 +101,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NunitoSans-Regular",
+            "name": "AvertaStdCY-Regular",
             "size": 40
           }
         },
@@ -113,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

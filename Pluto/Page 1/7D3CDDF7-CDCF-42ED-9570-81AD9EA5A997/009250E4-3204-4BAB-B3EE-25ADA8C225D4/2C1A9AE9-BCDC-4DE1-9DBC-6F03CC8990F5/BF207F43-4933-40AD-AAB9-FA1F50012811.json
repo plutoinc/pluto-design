@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
+              "name": "AvertaStdCY-Regular",
               "size": 30
             }
           },
@@ -34,6 +34,7 @@
     "string": "Contact"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "BF207F43-4933-40AD-AAB9-FA1F50012811",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -50,12 +51,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "58610017-59DD-4ECF-B4C9-BFE72F5A2551",
-    "height": 41,
-    "width": 108,
-    "x": 301,
+    "height": 37,
+    "width": 113,
+    "x": 299.5,
     "y": 0
   },
-  "glyphBounds": "{{1, 8}, {106, 23}}",
+  "glyphBounds": "{{1, 7}, {111, 23}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -80,9 +82,9 @@
       "type": 0
     },
     "do_objectID": "84C9597E-96B4-4957-AEEB-54FDE8B6824A",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "B673EBB9-EC97-40C3-90F5-9939CB493778",
@@ -97,7 +99,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
+            "name": "AvertaStdCY-Regular",
             "size": 30
           }
         },
@@ -109,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

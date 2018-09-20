@@ -1,0 +1,100 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "0F90F1F3-7D19-4F4E-9B43-779CA3AE2037",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6B36A42-0CD7-440C-89D9-292C54174124",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B3F06762-F4E1-4EF6-ACED-9A12F17AEB7B",
+    "height": 54,
+    "width": 292,
+    "x": 1446,
+    "y": 244
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/801b0d5f6778e1565c1a135badc686b170883f04.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "derStandard.at",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "39493228-A34B-450F-B538-FDE75260ECC5",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.5,
+      "type": 0
+    },
+    "do_objectID": "517D8E1E-14EE-44D2-9B8D-6EA8F2105D07",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7106983418367347,
+          "green": 0.639621029766468,
+          "red": 0.6040823737313344
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 54,
+            "enabled": 1,
+            "modelID": "constraint_43a01d1b-01f0-4c63-972a-5861b2694f72",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 292
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_728959ac-50c2-4711-b456-7c56291c7b45",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

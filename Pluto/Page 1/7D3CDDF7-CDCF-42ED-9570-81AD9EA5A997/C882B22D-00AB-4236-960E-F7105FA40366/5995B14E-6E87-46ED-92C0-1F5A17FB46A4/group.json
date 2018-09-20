@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "5995B14E-6E87-46ED-92C0-1F5A17FB46A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9921D884-DD5D-4375-9B56-547FDDBDA1C9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B61806BB-049E-47F7-B6A6-BD8CF228CEBC",
+    "height": 156,
+    "width": 444,
+    "x": 1666,
+    "y": 225
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B5F06543-B749-4AC2-9D6F-672541559E84"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B12FFD78-7E0E-4224-BC1C-24BAF6A16200"
+    },
+    {
+      "class": "text",
+      "id": "95338ABC-3150-480E-86DE-5EC46A64DFAD"
+    }
+  ],
+  "name": "whitePaperButton",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "423C8691-461B-4109-932B-2ADB0A4B03E5",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "73C2BC7E-18A4-4168-A730-764D3341838B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

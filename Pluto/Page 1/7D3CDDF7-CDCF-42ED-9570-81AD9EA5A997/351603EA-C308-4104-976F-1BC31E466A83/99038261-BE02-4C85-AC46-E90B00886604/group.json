@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "99038261-BE02-4C85-AC46-E90B00886604",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD10FFC9-577E-4547-A255-8585943CC313",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A5EC63F-8500-4D32-AD30-B885BF2F7106",
+    "height": 132,
+    "width": 132,
+    "x": 1532,
+    "y": 534
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A63C6CCD-A074-4949-BF9B-0C1A6021CB13"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A2C02D8B-B3C1-43F2-B578-DC3EFC3440BB"
+    }
+  ],
+  "name": "playIcon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5DFD8A5C-7D9D-44A6-B0BF-25C9E0261CA3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 24,
+      "type": 0
+    },
+    "do_objectID": "16ADA02F-8CCE-4EF5-B99B-135DE907B5E9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

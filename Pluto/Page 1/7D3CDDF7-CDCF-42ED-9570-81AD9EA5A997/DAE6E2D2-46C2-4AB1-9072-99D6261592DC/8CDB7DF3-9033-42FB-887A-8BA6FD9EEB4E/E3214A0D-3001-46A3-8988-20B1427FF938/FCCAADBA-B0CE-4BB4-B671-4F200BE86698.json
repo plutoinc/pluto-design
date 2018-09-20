@@ -82,6 +82,7 @@
     "string": "Whitepaper Feedback ✍️ "
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "FCCAADBA-B0CE-4BB4-B671-4F200BE86698",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -104,6 +105,7 @@
     "y": 373.6
   },
   "glyphBounds": "{{4, 2}, {294, 30}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -128,9 +130,9 @@
       "type": 0
     },
     "do_objectID": "9CAA1509-BD44-499B-BD3C-4CC141E1F85B",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "E1360207-19D7-4084-BD64-4DF4ADB65FC0",
@@ -155,7 +157,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

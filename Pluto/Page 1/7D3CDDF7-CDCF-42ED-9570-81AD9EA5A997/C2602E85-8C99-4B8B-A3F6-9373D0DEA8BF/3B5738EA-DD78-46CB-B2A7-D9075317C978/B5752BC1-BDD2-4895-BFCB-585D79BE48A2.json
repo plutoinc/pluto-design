@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-SemiBold",
+              "name": "AvertaStdCY-Semibold",
               "size": 72
             }
           },
@@ -36,6 +36,7 @@
     "string": "Academia is Obsessed with Publications"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "B5752BC1-BDD2-4895-BFCB-585D79BE48A2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,9 +56,10 @@
     "height": 160,
     "width": 1060,
     "x": 0,
-    "y": 95
+    "y": 94
   },
-  "glyphBounds": "{{0, 12}, {896, 133}}",
+  "glyphBounds": "{{1, 13}, {922, 134}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -82,9 +84,9 @@
       "type": 0
     },
     "do_objectID": "D61CAA8D-FC69-4291-A071-567FA8AE483B",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "5CA31CBA-F2DC-4F32-A3F0-C57DB875EBE7",
@@ -99,7 +101,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NunitoSans-SemiBold",
+            "name": "AvertaStdCY-Semibold",
             "size": 72
           }
         },
@@ -113,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

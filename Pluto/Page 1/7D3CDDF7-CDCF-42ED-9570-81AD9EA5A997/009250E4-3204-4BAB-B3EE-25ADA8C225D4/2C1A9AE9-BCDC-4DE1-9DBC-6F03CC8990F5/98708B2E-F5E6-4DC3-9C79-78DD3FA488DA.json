@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
+              "name": "AvertaStdCY-Regular",
               "size": 30
             }
           },
@@ -34,6 +34,7 @@
     "string": "Github"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "98708B2E-F5E6-4DC3-9C79-78DD3FA488DA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -50,12 +51,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "DF410D52-AA53-4354-B4A4-1EC7CEDB1A4D",
-    "height": 41,
-    "width": 95,
-    "x": 634,
+    "height": 37,
+    "width": 94,
+    "x": 635.5,
     "y": 0
   },
-  "glyphBounds": "{{1, 7}, {92, 24}}",
+  "glyphBounds": "{{1, 6}, {92, 24}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -80,9 +82,9 @@
       "type": 0
     },
     "do_objectID": "E895CF3F-FDEB-44C1-8F43-ED99A74824EF",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "DD3D26A9-8C4C-455D-83D3-0F9FD3261342",
@@ -97,7 +99,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
+            "name": "AvertaStdCY-Regular",
             "size": 30
           }
         },
@@ -109,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

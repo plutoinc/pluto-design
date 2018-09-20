@@ -1,0 +1,100 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "443532B0-29F5-476D-865F-0EE0E1FAAE13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FEA9A43B-264C-4F8F-BF95-C1753A45B2AB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E40D7005-F0A6-4269-B440-F3F82540AC8E",
+    "height": 42,
+    "width": 402,
+    "x": 578,
+    "y": 252
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/e8ca7880791b13c7e2d8179ba63564a32717fa3c.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "physicsToday",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C735363B-331D-4520-BE4E-39FCEDD7E5B9",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "754D0283-471F-4D3A-A248-718951EC7BC8",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7106983418367347,
+          "green": 0.639621029766468,
+          "red": 0.6040823737313344
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 42,
+            "enabled": 1,
+            "modelID": "constraint_088fc7ec-a3db-47c5-a7f2-eac8d0ec45b9",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 402
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_5ef0f53d-bef7-4d10-aa15-58c92e542707",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

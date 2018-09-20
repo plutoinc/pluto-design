@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-Regular",
+              "name": "AvertaStdCY-Regular",
               "size": 32
             }
           },
@@ -36,6 +36,7 @@
     "string": "Scholarly communication on Pluto is governed by researchers, and no single individual or group has control of the system."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "1A2B5DAA-6ADD-4D0E-AD39-F7D8BAB6878A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,9 +56,10 @@
     "height": 132,
     "width": 694,
     "x": 120,
-    "y": 851
+    "y": 850
   },
-  "glyphBounds": "{{4, 10}, {687, 117}}",
+  "glyphBounds": "{{6, 10}, {681, 119}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -82,9 +84,9 @@
       "type": 0
     },
     "do_objectID": "4C455265-776A-47C1-A6AF-AADCC9A9FCDE",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "1373D427-CC1F-454C-AAC7-3AE74B17EFC7",
@@ -99,7 +101,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NunitoSans-Regular",
+            "name": "AvertaStdCY-Regular",
             "size": 32
           }
         },
@@ -113,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
+              "name": "AvertaStdCY-Regular",
               "size": 30
             }
           },
@@ -34,6 +34,7 @@
     "string": "FAQ"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "47803043-B314-4E0E-B60C-C5D9A49B492B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -50,12 +51,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "295B92F9-6799-4C19-9EED-4BD7C4540E9F",
-    "height": 41,
-    "width": 64,
-    "x": 157,
+    "height": 37,
+    "width": 63,
+    "x": 158.5,
     "y": 0
   },
-  "glyphBounds": "{{2, 8}, {61, 22}}",
+  "glyphBounds": "{{2, 7}, {60, 23}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -80,9 +82,9 @@
       "type": 0
     },
     "do_objectID": "C28119F7-BB40-4F3B-A770-48E7F3DED1D8",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "639342D6-0CF7-443C-9D5D-A9A11DFD75CF",
@@ -97,7 +99,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
+            "name": "AvertaStdCY-Regular",
             "size": 30
           }
         },
@@ -109,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

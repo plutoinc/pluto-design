@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "974FF6E8-6A13-4C6D-A273-4F40D9919E13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "02913DEA-9871-476A-B538-E2F6C69F18EE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B347B8EB-A34B-49AF-87DE-F47D2E376CBC",
+    "height": 66,
+    "width": 65,
+    "x": 584,
+    "y": 14
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "053F3F33-C248-4166-BFF3-2078401B89E6"
+    },
+    {
+      "class": "group",
+      "id": "27128AF8-1750-4D28-9A19-09C829EFF79B"
+    }
+  ],
+  "name": "subscribeButton",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "528CFAA1-7006-43C5-9A22-EA64ABCE1852",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "BAF2FDA0-5331-430E-A970-4765CCE81C5C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

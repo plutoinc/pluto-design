@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-Regular",
+              "name": "AvertaStdCY-Regular",
               "size": 40
             }
           },
@@ -36,6 +36,7 @@
     "string": "Open & Transparent"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "D386659B-C6B6-40F5-B5C3-E405362CE163",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,11 +54,12 @@
     "constrainProportions": false,
     "do_objectID": "A5485FCA-C81A-4E32-A09C-D64BE5362B42",
     "height": 48,
-    "width": 363,
+    "width": 375,
     "x": 1746,
-    "y": 768
+    "y": 767
   },
-  "glyphBounds": "{{2, 8}, {360, 37}}",
+  "glyphBounds": "{{2, 9}, {372, 37}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -82,9 +84,9 @@
       "type": 0
     },
     "do_objectID": "FE8E0944-C295-4739-9270-130918AB1C6E",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "EC8AEA77-F1FD-4242-A025-CBB6F5BBC0B9",
@@ -99,7 +101,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NunitoSans-Regular",
+            "name": "AvertaStdCY-Regular",
             "size": 40
           }
         },
@@ -113,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "2B7FE4D6-A39B-41BF-ABF3-B9C03A69E0FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EFA85025-C3B8-49AC-A902-4E0224BBC0F3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B93C1C7-3958-45BF-9576-BF8508F744C9",
+    "height": 1200,
+    "width": 2400,
+    "x": 0,
+    "y": 2400
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EC63E6FA-C440-421E-BF41-46CC56835C60"
+    },
+    {
+      "class": "group",
+      "id": "9ABB59D4-F3F2-4A8F-84B2-BE240B2589AF"
+    },
+    {
+      "class": "group",
+      "id": "5B6ECCA2-7B39-44EA-B70B-4728E4D7CF94"
+    }
+  ],
+  "name": "ProblemSection",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0060C8A2-71A1-49D6-984C-1FA3C0BEA28F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "73E11B85-8FFF-4427-8851-3018544A6815",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7AD6038D-63FE-4D20-84F3-F5DA858D3AE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "95C89127-42D2-4395-9D39-037C0799E93B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "991133D4-FFBB-4341-A82E-306B81FFD5F3",
+    "height": 53.37446451416016,
+    "width": 143.5864333145141,
+    "x": 1.702400054929001,
+    "y": 1.688191592407655
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8A2D5D02-59EB-4B7E-8E1E-5EEA119FB49D"
+    },
+    {
+      "class": "shapePath",
+      "id": "C87C4C5B-6A34-4EB7-AD8A-7114D69D3BA3"
+    },
+    {
+      "class": "shapePath",
+      "id": "F46382F7-BCB0-43DF-AD30-FF8E504117ED"
+    },
+    {
+      "class": "shapePath",
+      "id": "213FC55C-CA0F-4C30-A5D4-17FF553C40E7"
+    },
+    {
+      "class": "shapePath",
+      "id": "23919FE3-A17D-42D1-BE6F-552A54A3CC37"
+    },
+    {
+      "class": "shapePath",
+      "id": "C345723B-6892-4615-A6B8-2D412037EECF"
+    },
+    {
+      "class": "shapePath",
+      "id": "FE584A42-D23A-4521-A717-639E9D73460A"
+    }
+  ],
+  "name": "pluto",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DCEE4AEA-C958-4009-B2AE-C2EFE98C2632",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 38.016,
+      "type": 0
+    },
+    "do_objectID": "2B2DAE17-E04C-48D9-89EB-52DDDD0B71F3",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{1, 1}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.623529411764706,
+                "green": 0.7294117647058823,
+                "red": 0.01568627450980399
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8235294117647061,
+                "green": 0.9490196078431372,
+                "red": 0.1215686274509804
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0, 0}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "B7DB2BC4-CA8B-43F8-BC39-21BCD930CEAE",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "MontserratAlternates-Light",
+            "size": 28.5120002746582
+          }
+        },
+        "kerning": 0.5702399969100952,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

@@ -57,6 +57,7 @@
     "string": "Leave Message ✉️"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "14E69F63-3D5F-4B5C-AD21-30D4B2AC5E34",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -79,6 +80,7 @@
     "y": 288
   },
   "glyphBounds": "{{2, 2}, {213, 30}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -103,9 +105,9 @@
       "type": 0
     },
     "do_objectID": "5EDC9422-E3A1-4F01-B33F-36C66ABF77BA",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "3280895E-4705-4EB2-BA53-7905B90EA1F4",
@@ -130,7 +132,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

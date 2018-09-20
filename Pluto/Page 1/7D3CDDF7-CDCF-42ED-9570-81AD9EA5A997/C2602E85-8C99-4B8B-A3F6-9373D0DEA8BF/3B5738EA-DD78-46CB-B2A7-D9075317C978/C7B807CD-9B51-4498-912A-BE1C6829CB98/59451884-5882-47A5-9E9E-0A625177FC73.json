@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Medium",
+              "name": "AvertaStdCY-Regular",
               "size": 32
             }
           },
@@ -36,6 +36,7 @@
     "string": "Read More"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "59451884-5882-47A5-9E9E-0A625177FC73",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,9 +56,10 @@
     "height": 58,
     "width": 162,
     "x": 62,
-    "y": 16
+    "y": 14
   },
-  "glyphBounds": "{{2, 14}, {159, 26}}",
+  "glyphBounds": "{{2, 17}, {159, 24}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -82,9 +84,9 @@
       "type": 0
     },
     "do_objectID": "DB513F18-946B-4139-9EE9-4FB0EC70A38D",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "E3BA5B50-F41E-4905-939F-561D1DA93436",
@@ -99,7 +101,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Medium",
+            "name": "AvertaStdCY-Regular",
             "size": 32
           }
         },
@@ -113,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

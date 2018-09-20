@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "5EC5EFA1-51DC-446F-A21E-83B85272E8B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B25BDE6F-95B0-44F6-A236-B360B08A3AEB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D75D0176-268D-40AC-93C3-0DB2E01DB3BE",
+    "height": 127,
+    "width": 127,
+    "x": 361,
+    "y": 648
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7E778800-1175-4632-9847-CA43804FDD33"
+    },
+    {
+      "class": "group",
+      "id": "3F9EDC37-DF79-4509-9E91-14BEC5948CE1"
+    }
+  ],
+  "name": "toggleButton",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "51FCDA4F-DFBF-4827-9EEB-E9C123730027",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

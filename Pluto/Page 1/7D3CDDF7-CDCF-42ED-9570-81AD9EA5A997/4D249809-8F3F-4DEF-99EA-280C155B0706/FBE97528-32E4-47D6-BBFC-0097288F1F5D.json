@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-Regular",
+              "name": "AvertaStdCY-Regular",
               "size": 36
             }
           },
@@ -36,6 +36,7 @@
     "string": "Breaking down barriers in academia"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "FBE97528-32E4-47D6-BBFC-0097288F1F5D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,11 +54,12 @@
     "constrainProportions": false,
     "do_objectID": "D664E1A2-D9F6-4472-8C92-59BF899EA82B",
     "height": 48,
-    "width": 577,
-    "x": 912,
-    "y": 519
+    "width": 601,
+    "x": 900,
+    "y": 518
   },
-  "glyphBounds": "{{3, 10}, {572, 33}}",
+  "glyphBounds": "{{3, 10}, {595, 35}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -82,9 +84,9 @@
       "type": 0
     },
     "do_objectID": "2D0459DF-7ED0-41E5-94B6-5800DEAFA929",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "09A26115-7D25-404E-9AE5-F11B40D6E1BD",
@@ -99,7 +101,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NunitoSans-Regular",
+            "name": "AvertaStdCY-Regular",
             "size": 36
           }
         },
@@ -113,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

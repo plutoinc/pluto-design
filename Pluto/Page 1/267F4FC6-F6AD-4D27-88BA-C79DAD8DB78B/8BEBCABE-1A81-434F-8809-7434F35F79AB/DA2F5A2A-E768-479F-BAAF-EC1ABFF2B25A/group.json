@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "DA2F5A2A-E768-479F-BAAF-EC1ABFF2B25A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BFC8C00C-D90E-4321-89C0-AB8645DD5B20",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A0A7B7B-02AC-45C3-B004-15C1D3C56513",
+    "height": 196,
+    "width": 1550,
+    "x": 0,
+    "y": 676
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EE558898-F55B-415D-B18F-3601E71FC4BA"
+    },
+    {
+      "class": "group",
+      "id": "A361A4B2-12C6-4F61-8033-E4C50E4AFC5B"
+    }
+  ],
+  "name": "youtube-player",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "513EFFFB-BFE9-4777-8C76-AFE81B76D0D9",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "7B07CCDE-0062-4BBB-9BCD-742ABD956154",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

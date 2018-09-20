@@ -57,6 +57,7 @@
     "string": "Direct Conversation 🗣"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "7189EBA0-9F9C-4F3B-9528-B8E29FF8D689",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -79,6 +80,7 @@
     "y": 456.8
   },
   "glyphBounds": "{{2, 2}, {264, 27}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -103,9 +105,9 @@
       "type": 0
     },
     "do_objectID": "2B701323-CB57-45F7-9799-67784CD89869",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "A5C58244-BDC3-49A0-92A3-2375C266B315",
@@ -130,7 +132,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-Regular",
+              "name": "AvertaStdCY-Regular",
               "size": 27.2
             }
           },
@@ -34,6 +34,7 @@
     "string": "Do you have any questions \nor questions about Pluto?\nLeave a message or try conversation!\nWe will respond within one day."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "B7A2EF55-AA03-499C-B083-B4EB6B86911C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -50,12 +51,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "40A1F49E-56F5-42ED-BBC4-9F67BCC6681A",
-    "height": 192,
+    "height": 192.0000000000001,
     "width": 420.2,
     "x": 32.8,
-    "y": 142.4
+    "y": 141.4
   },
-  "glyphBounds": "{{0, 9}, {387, 178}}",
+  "glyphBounds": "{{0, 9}, {394, 180}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -80,9 +82,9 @@
       "type": 0
     },
     "do_objectID": "6A2A507C-AD25-422E-9282-F55CCCF4FDF6",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "2C4BC08E-1904-4511-A620-AB0EC91CB705",
@@ -97,7 +99,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NunitoSans-Regular",
+            "name": "AvertaStdCY-Regular",
             "size": 27.2
           }
         },
@@ -109,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

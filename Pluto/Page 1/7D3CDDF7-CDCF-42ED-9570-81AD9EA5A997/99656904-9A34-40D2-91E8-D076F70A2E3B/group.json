@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "99656904-9A34-40D2-91E8-D076F70A2E3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D583766-8EA9-4190-B307-0B21808C1732",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0C786556-E021-4FCE-8C84-67F1D989163D",
+    "height": 502,
+    "width": 2400,
+    "x": 0,
+    "y": 8852
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D8050087-640B-4327-9F61-4FC37C73C700"
+    },
+    {
+      "class": "group",
+      "id": "52F51CD6-537F-4065-8964-BB79B97D140F"
+    },
+    {
+      "class": "text",
+      "id": "870F02DB-A14B-49C2-8104-5161930EE677"
+    },
+    {
+      "class": "group",
+      "id": "6D37DDEC-8690-413C-9CBA-5E7E63098220"
+    }
+  ],
+  "name": "SubscribeSection",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "3A378776-6985-46E9-8056-284FBBE126B4",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "FAE4E772-9586-4CDF-940D-4194FAA1C006",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

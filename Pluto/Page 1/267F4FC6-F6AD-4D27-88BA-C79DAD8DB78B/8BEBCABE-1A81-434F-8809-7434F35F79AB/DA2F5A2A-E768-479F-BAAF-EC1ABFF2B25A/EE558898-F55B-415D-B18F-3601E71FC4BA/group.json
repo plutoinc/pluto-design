@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "EE558898-F55B-415D-B18F-3601E71FC4BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "67E92ABC-9207-4EC8-8E1E-18042D4B7158",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "707C70B8-E777-4BDE-AFEE-45A8C984B83B",
+    "height": 196,
+    "width": 1550,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7DE9D731-043A-42DE-A11E-332836946763"
+    },
+    {
+      "class": "group",
+      "id": "43CD0678-CAE5-4271-8D92-A76D960807AE"
+    },
+    {
+      "class": "group",
+      "id": "B9107096-E500-459A-BF22-132E47159CBA"
+    },
+    {
+      "class": "group",
+      "id": "A7090166-3975-4BC4-BF88-E95C57FEFC4F"
+    },
+    {
+      "class": "group",
+      "id": "91042DA6-F146-494C-89E6-64C0083A8B90"
+    },
+    {
+      "class": "group",
+      "id": "81FFB57B-8D4E-469D-A5CF-0F9B4BE442C9"
+    },
+    {
+      "class": "group",
+      "id": "9159848A-3587-4651-B1EE-44AEC714B515"
+    },
+    {
+      "class": "group",
+      "id": "DC7879C8-6A83-43F0-BF69-0D62BA2BE943"
+    },
+    {
+      "class": "group",
+      "id": "D1B72258-DC7E-4AE4-AF36-41E4215088CA"
+    }
+  ],
+  "name": "player-controls",
+  "nameIsFixed": true,
+  "resizingConstraint": 34,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "74049547-2B28-4915-A387-34BA7DEAC420",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "BD837090-04AF-4555-945B-8B07EC0C5783",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

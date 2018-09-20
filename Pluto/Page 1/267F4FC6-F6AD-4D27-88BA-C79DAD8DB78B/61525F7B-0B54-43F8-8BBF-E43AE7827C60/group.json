@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "61525F7B-0B54-43F8-8BBF-E43AE7827C60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5F5BAFE5-77E9-41A4-88F1-0407125B519F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BB3596E5-251C-4449-862F-152735FA3AC0",
+    "height": 775,
+    "width": 488,
+    "x": 1825,
+    "y": 481
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D4C22E98-0161-44BD-A88B-E0DCDA9AF5E8"
+    },
+    {
+      "class": "group",
+      "id": "5EC5EFA1-51DC-446F-A21E-83B85272E8B8"
+    }
+  ],
+  "name": "PopOverHelper",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1FBD79F6-251E-4326-AEDC-D8BB55E73C08",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

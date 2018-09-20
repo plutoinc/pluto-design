@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-Regular",
+              "name": "AvertaStdCY-Regular",
               "size": 40
             }
           },
@@ -36,6 +36,7 @@
     "string": "Collaborations & Incentives"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "28A3A7A9-8C53-4597-82D8-430D846D9D30",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,9 +56,10 @@
     "height": 48,
     "width": 518,
     "x": 940,
-    "y": 768
+    "y": 767
   },
-  "glyphBounds": "{{2, 8}, {480, 30}}",
+  "glyphBounds": "{{2, 8}, {501, 31}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -82,9 +84,9 @@
       "type": 0
     },
     "do_objectID": "63F8582B-5B59-476F-82FF-F28BC1D92481",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "B8CDDCC2-3A68-490C-8E64-C859B9808C98",
@@ -99,7 +101,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NunitoSans-Regular",
+            "name": "AvertaStdCY-Regular",
             "size": 40
           }
         },
@@ -113,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

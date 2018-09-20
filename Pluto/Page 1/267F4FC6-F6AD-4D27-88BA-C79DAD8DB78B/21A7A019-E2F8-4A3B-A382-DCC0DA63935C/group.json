@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "21A7A019-E2F8-4A3B-A382-DCC0DA63935C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F8B05C1-78C7-4153-A98D-1B751DECAD3C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "210AA7E1-D075-4748-8AC6-F6970A40A832",
+    "height": 80,
+    "width": 2160,
+    "x": 120,
+    "y": 42
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C04B0DE4-8503-4E82-A077-43EC71D4ED05"
+    },
+    {
+      "class": "group",
+      "id": "860608AC-9E73-4754-B7BA-7AE5660296D2"
+    },
+    {
+      "class": "group",
+      "id": "D75F5189-7A2C-406E-8D53-F204A0E7A870"
+    }
+  ],
+  "name": "NavBar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4F3029FF-2EFD-4BC4-A848-B56186384E5E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "3AA8AAD0-8784-40B4-98B3-FDD7169AB600",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

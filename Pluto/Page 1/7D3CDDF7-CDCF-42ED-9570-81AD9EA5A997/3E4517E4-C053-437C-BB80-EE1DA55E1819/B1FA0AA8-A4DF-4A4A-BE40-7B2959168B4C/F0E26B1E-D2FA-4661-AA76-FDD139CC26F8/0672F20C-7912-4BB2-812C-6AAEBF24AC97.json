@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-SemiBold",
+              "name": "AvertaStdCY-Semibold",
               "size": 72
             }
           },
@@ -29,7 +29,7 @@
             "minimumLineHeight": 80
           }
         },
-        "length": 23,
+        "length": 21,
         "location": 0
       },
       {
@@ -45,7 +45,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-Bold",
+              "name": "AvertaStdCY-Bold",
               "size": 72
             }
           },
@@ -59,7 +59,7 @@
           }
         },
         "length": 1,
-        "location": 23
+        "location": 21
       },
       {
         "_class": "stringAttribute",
@@ -74,7 +74,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-Light",
+              "name": "AvertaStdCY-Light",
               "size": 72
             }
           },
@@ -88,12 +88,13 @@
           }
         },
         "length": 51,
-        "location": 24
+        "location": 22
       }
     ],
-    "string": "Try Pluto's prototype :\nDiscover research papers, \nand put your own review."
+    "string": "Try Pluto's product :\nDiscover research papers, \nand put your own review."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "0672F20C-7912-4BB2-812C-6AAEBF24AC97",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -113,16 +114,17 @@
     "height": 240,
     "width": 1058,
     "x": 0,
-    "y": 95
+    "y": 94
   },
-  "glyphBounds": "{{0, 13}, {812, 224}}",
+  "glyphBounds": "{{2, 13}, {826, 228}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Try Pluto's prototyp",
+  "name": "Try Pluto's product",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -140,9 +142,9 @@
       "type": 0
     },
     "do_objectID": "327D31E9-092D-45DE-BA1A-D07DE02B3530",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "326822E0-189E-451F-A2FE-4CCAA8401CC5",
@@ -157,7 +159,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NunitoSans-SemiBold",
+            "name": "AvertaStdCY-Semibold",
             "size": 72
           }
         },
@@ -171,7 +173,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

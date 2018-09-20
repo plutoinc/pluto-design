@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-Regular",
+              "name": "AvertaStdCY-Regular",
               "size": 27.2
             }
           },
@@ -25,38 +25,14 @@
             "alignment": 0
           }
         },
-        "length": 11,
+        "length": 13,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.4882281124591827,
-            "green": 0.4283104836940765,
-            "red": 0.3983516693115234
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "AppleColorEmoji",
-              "size": 27.2
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
-          }
-        },
-        "length": 2,
-        "location": 11
       }
     ],
     "string": "Hi, There! 👋"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "BFAC0D0E-E3F7-4AE8-B26C-4D33BC0737D6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -73,12 +49,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F87066BD-88EB-4029-9167-E48B9D2FE702",
-    "height": 37,
+    "height": 36,
     "width": 151,
     "x": 302,
     "y": 28
   },
-  "glyphBounds": "{{2, 1}, {149, 30}}",
+  "glyphBounds": "{{2, 1}, {150, 30}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -103,9 +80,9 @@
       "type": 0
     },
     "do_objectID": "013A29A0-23A7-47C1-B4AB-70DCCD2D976E",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "E6C700DD-A3B3-4311-97E9-6F3D831790CA",
@@ -120,7 +97,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NunitoSans-Regular",
+            "name": "AvertaStdCY-Regular",
             "size": 27.2
           }
         },
@@ -130,7 +107,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

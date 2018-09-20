@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-Regular",
+              "name": "AvertaStdCY-Regular",
               "size": 32
             }
           },
@@ -36,6 +36,7 @@
     "string": "Pluto makes scholarly communication as transparent as possible. Information is kept clearly visible to anybody, and publishing and reviewing processes are transparent and open to users."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "46C2D92A-D4A2-4E74-A111-A3F5F2C094BD",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,9 +56,10 @@
     "height": 220,
     "width": 692,
     "x": 1588,
-    "y": 851
+    "y": 850
   },
-  "glyphBounds": "{{18, 10}, {656, 200}}",
+  "glyphBounds": "{{7, 10}, {678, 201}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -82,9 +84,9 @@
       "type": 0
     },
     "do_objectID": "E33850AB-BCFE-4735-8FF1-133F99F1F8C2",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "4A50BE79-C18C-4C27-8704-7C2AADEB7236",
@@ -99,7 +101,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NunitoSans-Regular",
+            "name": "AvertaStdCY-Regular",
             "size": 32
           }
         },
@@ -113,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

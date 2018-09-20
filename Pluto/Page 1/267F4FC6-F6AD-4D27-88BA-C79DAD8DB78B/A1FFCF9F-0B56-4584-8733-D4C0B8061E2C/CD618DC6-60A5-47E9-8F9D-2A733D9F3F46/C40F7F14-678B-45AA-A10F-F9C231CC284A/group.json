@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "C40F7F14-678B-45AA-A10F-F9C231CC284A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7869860B-BE5E-4F51-9749-14C0313F0F39",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7A729FE6-FB8F-453A-9EF8-FECCFD52BD3B",
+    "height": 6,
+    "width": 1486,
+    "x": 34,
+    "y": 114
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3A90F245-56EB-4839-864A-46A11FEF94AA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4CCE0921-F3AB-4539-B42D-03F5BADA278E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1639B62C-31F6-4B61-8184-B68E5BA8ABF5"
+    }
+  ],
+  "name": "progress-bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 36,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "30A9A8A6-AF20-44F1-B987-77ED59FE7D6F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 20,
+      "type": 0
+    },
+    "do_objectID": "AD1AA512-D0D7-4526-AFD4-3459FB872D96",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

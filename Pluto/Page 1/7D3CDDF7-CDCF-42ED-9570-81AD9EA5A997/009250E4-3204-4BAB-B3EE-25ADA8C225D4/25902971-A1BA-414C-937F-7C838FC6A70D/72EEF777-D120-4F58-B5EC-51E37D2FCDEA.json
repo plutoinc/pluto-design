@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Medium",
+              "name": "AvertaStdCY-Regular",
               "size": 30
             }
           },
@@ -29,13 +29,14 @@
             "minimumLineHeight": 57.59999999999999
           }
         },
-        "length": 8,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Try Demo"
+    "string": "Try Product "
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "72EEF777-D120-4F58-B5EC-51E37D2FCDEA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,18 +54,19 @@
     "constrainProportions": false,
     "do_objectID": "1EFFCD02-D585-47AA-8C4E-5ACD6B4D555D",
     "height": 58,
-    "width": 136,
-    "x": 63,
-    "y": 12
+    "width": 169,
+    "x": 46,
+    "y": 10
   },
-  "glyphBounds": "{{0, 17}, {135, 29}}",
+  "glyphBounds": "{{4, 17}, {160, 29}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Try Demo",
+  "name": "Try Product",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -82,9 +84,9 @@
       "type": 0
     },
     "do_objectID": "E1C2846C-59C9-455C-A91E-9DB24F723748",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "45CB8421-2718-4990-9139-378EB6BD28CC",
@@ -99,7 +101,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Medium",
+            "name": "AvertaStdCY-Regular",
             "size": 30
           }
         },
@@ -113,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

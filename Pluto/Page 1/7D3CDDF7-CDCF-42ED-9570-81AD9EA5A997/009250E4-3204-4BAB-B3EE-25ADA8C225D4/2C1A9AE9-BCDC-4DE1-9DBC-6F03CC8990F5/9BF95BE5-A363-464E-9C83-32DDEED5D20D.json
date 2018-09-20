@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-Regular",
+              "name": "AvertaStdCY-Regular",
               "size": 30
             }
           },
@@ -34,6 +34,7 @@
     "string": "Blog"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "9BF95BE5-A363-464E-9C83-32DDEED5D20D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -50,12 +51,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "96F54238-0202-48E4-87A9-8800098EB4D6",
-    "height": 41,
-    "width": 64,
-    "x": 489,
+    "height": 37,
+    "width": 63,
+    "x": 490.5,
     "y": 0
   },
-  "glyphBounds": "{{2, 7}, {60, 31}}",
+  "glyphBounds": "{{2, 6}, {59, 30}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -80,9 +82,9 @@
       "type": 0
     },
     "do_objectID": "F3ED3965-B9F4-4DAF-9298-8CCE4F8AA1BB",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "B7B4E815-2E38-4AA8-AE6D-E85D4C0DA678",
@@ -97,7 +99,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-Regular",
+            "name": "AvertaStdCY-Regular",
             "size": 30
           }
         },
@@ -109,7 +111,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

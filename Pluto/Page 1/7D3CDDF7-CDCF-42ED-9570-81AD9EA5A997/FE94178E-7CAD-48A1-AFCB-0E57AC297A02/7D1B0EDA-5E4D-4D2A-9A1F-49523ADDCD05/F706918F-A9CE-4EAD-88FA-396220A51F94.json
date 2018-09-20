@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-Regular",
+              "name": "AvertaStdCY-Regular",
               "size": 32
             }
           },
@@ -36,6 +36,7 @@
     "string": "Researchers on Pluto are encouraged to actively share their information, and put reviews on peers' works. Any forms of academic activities on Pluto are properly compensated."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "F706918F-A9CE-4EAD-88FA-396220A51F94",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -52,12 +53,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4163FA99-F49A-4792-A907-E62908BBF9F5",
-    "height": 176,
+    "height": 220,
     "width": 694,
     "x": 852,
-    "y": 851
+    "y": 850
   },
-  "glyphBounds": "{{6, 10}, {684, 161}}",
+  "glyphBounds": "{{46, 10}, {603, 207}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -82,9 +84,9 @@
       "type": 0
     },
     "do_objectID": "D5E371E4-6A22-4367-B707-513B440E7D31",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "3E2AA9D2-F2A4-4362-88A9-B29D1CF862DF",
@@ -99,7 +101,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NunitoSans-Regular",
+            "name": "AvertaStdCY-Regular",
             "size": 32
           }
         },
@@ -113,7 +115,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {
