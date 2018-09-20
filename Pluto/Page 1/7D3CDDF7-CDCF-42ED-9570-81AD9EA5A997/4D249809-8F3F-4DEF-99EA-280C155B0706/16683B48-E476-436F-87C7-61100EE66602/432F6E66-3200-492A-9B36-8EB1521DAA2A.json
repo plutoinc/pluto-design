@@ -29,11 +29,11 @@
             "minimumLineHeight": 57.59999999999999
           }
         },
-        "length": 33,
+        "length": 30,
         "location": 0
       }
     ],
-    "string": "Enter your email and subscribe us"
+    "string": "Enter your email and subscribe"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -58,7 +58,7 @@
     "x": 48,
     "y": 20
   },
-  "glyphBounds": "{{2, 17}, {477, 29}}",
+  "glyphBounds": "{{2, 17}, {436, 29}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,

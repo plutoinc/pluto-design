@@ -29,11 +29,11 @@
             "minimumLineHeight": 48
           }
         },
-        "length": 250,
+        "length": 155,
         "location": 0
       }
     ],
-    "string": "Scholarly communication is overwhelmed by commercial publishing companies. So is academia with publishing.\n\nResearchers are under pressure to publish more papers, and more publications means more profits for publishers, \nrather than genuine sciences."
+    "string": "Global research environment suffers under a distorted structure. Watch the infographic to see how Pluto's tackling the problems in scholarly communication."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8BF2B066-A139-4082-8FBC-142CEDF46957",
-    "height": 384,
+    "height": 192,
     "width": 712,
     "x": 120,
-    "y": 506
+    "y": 621
   },
-  "glyphBounds": "{{0, 10}, {710, 371}}",
+  "glyphBounds": "{{1, 10}, {703, 179}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Scholarly communicat",
+  "name": "Global research envi",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

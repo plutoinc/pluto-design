@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AvertaStdCY-Regular",
-              "size": 27.2
+              "size": 27
             }
           },
           "paragraphStyle": {
@@ -27,11 +27,11 @@
             "minimumLineHeight": 38.40000000000001
           }
         },
-        "length": 121,
+        "length": 124,
         "location": 0
       }
     ],
-    "string": "Do you have any questions \nor questions about Pluto?\nLeave a message or try conversation!\nWe will respond within one day."
+    "string": "Need help?\nHave any inquiry about us?\nLeave a message or join to chat with us!\nOne of our staff will respond lightning fast."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "40A1F49E-56F5-42ED-BBC4-9F67BCC6681A",
-    "height": 192.0000000000001,
-    "width": 420.2,
-    "x": 32.8,
-    "y": 141.4
+    "height": 230.4000000000001,
+    "width": 430,
+    "x": 29,
+    "y": 137
   },
-  "glyphBounds": "{{0, 9}, {394, 180}}",
+  "glyphBounds": "{{0, 9}, {395, 218}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Do you have any ques",
+  "name": "Need help? Have any",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -100,7 +100,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AvertaStdCY-Regular",
-            "size": 27.2
+            "size": 27
           }
         },
         "paragraphStyle": {

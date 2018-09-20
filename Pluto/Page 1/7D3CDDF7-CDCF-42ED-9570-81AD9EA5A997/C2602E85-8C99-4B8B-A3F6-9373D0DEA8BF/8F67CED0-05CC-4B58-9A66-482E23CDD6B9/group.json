@@ -27,8 +27,8 @@
     "do_objectID": "7F8878A8-1FC2-4D48-83C5-E435E2A4F308",
     "height": 822,
     "width": 896,
-    "x": 1271,
-    "y": 207
+    "x": 1270,
+    "y": 208
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -36,8 +36,12 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "group",
+      "id": "7CD2E4FB-46CF-453F-8139-E52CA71DC923"
+    },
     {
       "class": "group",
       "id": "19DAA16F-2732-4E5E-9F2E-7DADD1B2A668"

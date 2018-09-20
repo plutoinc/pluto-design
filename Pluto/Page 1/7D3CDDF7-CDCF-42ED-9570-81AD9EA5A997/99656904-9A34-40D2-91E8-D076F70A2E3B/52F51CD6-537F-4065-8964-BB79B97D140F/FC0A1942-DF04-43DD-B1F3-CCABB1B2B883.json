@@ -29,11 +29,11 @@
             "minimumLineHeight": 57.59999999999999
           }
         },
-        "length": 33,
+        "length": 30,
         "location": 0
       }
     ],
-    "string": "Enter your email and subscribe us"
+    "string": "Enter your email and subscribe"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "B44535DB-1B74-45EE-9E1C-2D77674F9582",
     "height": 58,
-    "width": 505,
+    "width": 461,
     "x": 48,
     "y": 20
   },
-  "glyphBounds": "{{2, 15}, {501, 31}}",
+  "glyphBounds": "{{2, 15}, {458, 31}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
